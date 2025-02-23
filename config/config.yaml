@@ -1,0 +1,5 @@
+dataset: "TheFinAI/flare-edtsum"
+
+HUGGING_FACE_API: "your api key"
+
+MODEL_NAME: "google/flan-t5-base"
